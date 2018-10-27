@@ -1,6 +1,6 @@
 # travel
 
-> 用Vue仿饿了么
+> 用Vue仿去哪网
 
 ## Build Setup
 
